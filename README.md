@@ -4,7 +4,7 @@ Application Android de bibliothèque personnelle avec interface sombre moderne, 
 
 ## Fonctions de cette première version
 - Accueil, onglet vidéos, onglet lecture et réglages.
-- Ouverture du dossier Google Drive fourni.
+- Navigation intégrée dans le dossier public Google Drive fourni, en plus du bouton pour ouvrir le dossier complet.
 - Ajout manuel de liens vidéo, PDF, EPUB ou autres liens.
 - Lecteur vidéo intégré pour les liens directs compatibles et aperçu intégré pour les fichiers Google Drive.
 - Aperçu PDF Google Drive intégré.
