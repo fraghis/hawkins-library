@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "com.hawkinslibrary"
+    namespace = "com.hawkins.library"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.hawkinslibrary"
+        applicationId = "com.hawkins.library"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
     }
 
     compileOptions {
